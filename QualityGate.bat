@@ -1,0 +1,1 @@
+echo "AppScan Quality gate passed successfully: %date% : %time%"
